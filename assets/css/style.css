@@ -145,10 +145,11 @@ html, body{
 
 /* Begin : Slider */
 
-#slider .slider-img{
+#slider{
     position: relative;
+    background: url('../img/slider/slider1.jpg') center / cover no-repeat ;
+    padding-top: 50%;
     margin-top: 46.5px;
-    width: 100%;
 }
 
 #slider .text-content{
