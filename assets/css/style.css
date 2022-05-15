@@ -147,7 +147,7 @@ html, body{
 
 #slider{
     position: relative;
-    background: url('./assets/img/slider/slider1.jpg') center / cover no-repeat ;
+    background: url('../img/slider/slider1.jpg') center / cover no-repeat ;
     padding-top: 50%;
     margin-top: 46.5px;
 }
@@ -160,6 +160,7 @@ html, body{
     text-align: center;
     left: 50%;
     transform: translateX(-50%);
+    text-shadow: 0 0 1px #000;
 }
 
 #slider .text-heading{
