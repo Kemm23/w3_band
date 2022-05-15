@@ -147,7 +147,7 @@ html, body{
 
 #slider{
     position: relative;
-    background: url('../img/slider/slider1.jpg') center / cover no-repeat ;
+    background: url('./assets/img/slider/slider1.jpg') center / cover no-repeat ;
     padding-top: 50%;
     margin-top: 46.5px;
 }
